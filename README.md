@@ -7,7 +7,7 @@
 
 - 🤝 Looking for roles in Backend development, cloud technology, or DevOps in the US. If you or your team is hiring, I would love to grab a virtual coffee and chat — I promise I’ll bring the code, you bring the opportunity!
 
-<p align="center"> 📫 You can reach me at **keshnimulrajani393@gmail.com**
+<p align="center"> 📫 You can reach me at <a href="mailto:keshnimulrajani393@gmail.com">keshnimulrajani393@gmail.com</a></p> 
 
 <p align="center"> 📄 Dive into my resume for all the details on my Experiences and Projects! (https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link)
 
