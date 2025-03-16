@@ -9,7 +9,7 @@
 
 <p align="center"> 📫 You can reach me at **keshnimulrajani393@gmail.com**
 
-<p align="center"> 📄 Dive into my resume for all the details on my Experiences and Projects! [https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link](https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link)
+<p align="center"> 📄 Dive into my resume for all the details on my Experiences and Projects! (https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link)
 
  <p align="center"> ⚡Fun fact -  I have probably spent more time debugging code than sleeping this week — but I swear, I am getting better at both!
 
