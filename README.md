@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I am Keshni Mulrajani</h1>
-<h3 align="center">Master’s Graduate in Computer Software Engineering with expertise in Cloud Computing, DevOps, and Backend Development, focused on scalable and efficient solutions.</h3>
+<h3 align="center">Master’s Graduate in Computer Software Engineering with expertise in Cloud Computing, DevOps, and Backend Development.</h3>
 
-- 🔭 I am currently working on **Bridging the gap between cloud infrastructure and seamless backend solutions, figuring out how to make complex systems run like clockwork, while having fun with automation along the way!**
+- 🔭 Currently working on **Bridging the gap between cloud infrastructure and seamless backend solutions, figuring out how to make complex systems run like clockwork, while having fun with automation along the way!**
 
-- 🌱 I am currently learning **New approaches to problem-solving and improving my understanding of software design principles to build more efficient, maintainable systems.**
+- 🌱 Learning **New approaches to problem-solving and improving my understanding of software design principles to build more efficient, maintainable systems.**
 
-- 👯 I am looking to collaborate on **Building scalable, high-performance backend systems and exploring innovative solutions for cloud-native applications.**
+- 👯 Seeking Collaborations on **Building scalable, high-performance backend systems and exploring innovative solutions for cloud-native applications.**
 
-- 🤝 I am looking for help with **Finding backend development, cloud technology, or DevOps roles in the US. If you or your team is hiring,I would love to grab a virtual coffee and chat — I promise I’ll bring the code, you bring the opportunity!**
+- 🤝 Looking for roles in **Backend development, cloud technology, or DevOps in the US. If you or your team is hiring, I would love to grab a virtual coffee and chat — I promise I’ll bring the code, you bring the opportunity!**
 
 - 💬 Ask me about **Building scalable systems and how to improve application performance under load.**
 
-- 📫 How to reach me **keshnimulrajani393@gmail.com**
+- 📫 You can reach me at **keshnimulrajani393@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link](https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link)
+- 📄 Dive into my resume for all the details on my Experiences and Projects! [https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link](https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link)
 
 - ⚡ Fun fact **I have probably spent more time debugging code than sleeping this week — but I swear, I am getting better at both!**
 
-- 🔑 LeetCode Daily Check-In
+- 🔑 **LeetCode Daily Check-In**
 
 Here’s a snapshot of my LeetCode progress:
 
