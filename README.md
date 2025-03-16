@@ -21,7 +21,7 @@
 
 Here’s a snapshot of my LeetCode progress:
 
-![LeetCode Stats](https://github.com/Keshni21/Keshni21/raw/main/Screenshot%202025-03-16%20at%205.37.09%20PM.png)
+![LeetCode Stats](https://github.com/Keshni21/Keshni21/blob/main/Leetcode_Progress.png)
 
 
 <h3 align="left">Connect with me:</h3>
