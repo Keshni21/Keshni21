@@ -1,25 +1,23 @@
 <h3 align="center">Hi 👋, I am Keshni Mulrajani</h3>
 <h4 align="center">Master’s Graduate in Computer Software Engineering with expertise in Backend Development, Cloud Computing and DevOps.</h4>
 
-- 🔭 Currently working on **Bridging the gap between cloud infrastructure and seamless backend solutions, figuring out how to make complex systems run like clockwork, while having fun with automation along the way!**
+- 🔭 Currently working on Bridging the gap between cloud infrastructure and seamless backend solutions, figuring out how to make complex systems run like clockwork, while having fun with automation along the way!
 
-- 🌱 Learning **New approaches to problem-solving and improving my understanding of software design principles to build more efficient, maintainable systems.**
+- 🌱 Learning New approaches to problem-solving and improving my understanding of software design principles to build more efficient, maintainable systems.
 
-- 👯 Seeking Collaborations on **Building scalable, high-performance backend systems and exploring innovative solutions for cloud-native applications.**
+- 👯 Seeking Collaborations on Building scalable, high-performance backend systems and exploring innovative solutions for cloud-native applications.
 
-- 🤝 Looking for roles in **Backend development, cloud technology, or DevOps in the US. If you or your team is hiring, I would love to grab a virtual coffee and chat — I promise I’ll bring the code, you bring the opportunity!**
+- 🤝 Looking for roles in Backend development, cloud technology, or DevOps in the US. If you or your team is hiring, I would love to grab a virtual coffee and chat — I promise I’ll bring the code, you bring the opportunity!
 
-- 💬 Ask me about **Building scalable systems and how to improve application performance under load.**
+- 💬 Ask me about Building scalable systems and how to improve application performance under load.
 
 - 📫 You can reach me at **keshnimulrajani393@gmail.com**
 
 - 📄 Dive into my resume for all the details on my Experiences and Projects! [https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link](https://drive.google.com/file/d/1oF5msibKQDH49hPGKumOc2ylvwDvbaiF/view?usp=share_link)
 
-- ⚡ Fun fact **I have probably spent more time debugging code than sleeping this week — but I swear, I am getting better at both!**
+- ⚡ Fun fact -  I have probably spent more time debugging code than sleeping this week — but I swear, I am getting better at both!
 
-- 🔑 **LeetCode Daily Check-In**
-
-Here’s a snapshot of my LeetCode progress:
+- 🔑 **Here’s a snapshot of my LeetCode progress:**
 
 ![LeetCode Stats](https://github.com/Keshni21/Keshni21/blob/main/Leetcode_Progress.png)
 
