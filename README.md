@@ -17,6 +17,13 @@
 
 - ⚡ Fun fact **I have probably spent more time debugging code than sleeping this week — but I swear, I am getting better at both!**
 
+- 🔑 LeetCode Daily Check-In
+
+Here’s a snapshot of my LeetCode progress:
+
+![LeetCode Stats](https://github.com/Keshni21/Keshni21/raw/main/Screenshot%202025-03-16%20at%205.37.09%20PM.png)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keshni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshni" height="30" width="40" /></a>
