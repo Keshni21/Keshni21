@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Keshni Mulrajani</h1>
-<h3 align="center">Master’s Graduate in Computer Software Engineering with expertise in Backend Development, Cloud Computing and DevOps.</h3>
+<h3 align="center">Hi 👋, I am Keshni Mulrajani</h3>
+<h4 align="center">Master’s Graduate in Computer Software Engineering with expertise in Backend Development, Cloud Computing and DevOps.</h4>
 
 - 🔭 Currently working on **Bridging the gap between cloud infrastructure and seamless backend solutions, figuring out how to make complex systems run like clockwork, while having fun with automation along the way!**
 
